@@ -22,7 +22,7 @@
  		class="com.sree.springdemo.CricketCoach">
  		<property name="fortuneService" ref="myFortune"></property>	
  		<property name="emailAddress" value="thebestcoach@gmail.com"/>
- 		<property name="team" value="Keral Blasters"/>
+ 		<property name="team" value="Kerala Blasters"/>
  		
  	</bean>
 
